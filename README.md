@@ -1,5 +1,1 @@
-- I am a self-taught developer and student.
-- I like to write beautiful and compact but efficient code.
-- My interests are development in general but with emphasis on web development.
 
-Building a future line by line :)
